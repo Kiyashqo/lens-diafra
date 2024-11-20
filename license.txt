@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lens Diaphragm
+* source:	https://sketchfab.com/3d-models/lens-diaphragm-a3046b1cc4a6497895f72045966be838
+* author:	jvin (https://sketchfab.com/jvin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lens Diaphragm" (https://sketchfab.com/3d-models/lens-diaphragm-a3046b1cc4a6497895f72045966be838) by jvin (https://sketchfab.com/jvin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
